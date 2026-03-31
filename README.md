@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **
 - DSA in C++
-- React.js with Vite & Bootstrap
+- React.js & Tailwind 
 - Next.js + TypeScript
-- MySQL Database**
+- MongoDB**
 
 - 📫 How to reach me **mirzaisfand321@gmail.com**
 
