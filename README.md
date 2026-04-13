@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **
 - DSA in C++
-- React.js & Tailwind 
+- React.js
 - Next.js + TypeScript
 - MongoDB**
 
