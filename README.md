@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **
 - DSA in C++
 - React.js
-- Next.js + TypeScript
+- Next.js and TypeScript
 - MongoDB**
 
 - 📫 How to reach me **mirzaisfand321@gmail.com**
