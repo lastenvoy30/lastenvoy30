@@ -40,8 +40,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lastenvoy30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastenvoy30&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lastenvoy30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastenvoy30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -50,10 +51,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lastenvoy30&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/lastenvoy30/lastenvoy30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
