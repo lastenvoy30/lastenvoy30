@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Passionate **Computer Science student** from India
+- 🎓 Passionate **Computer Science student** from Delhi, India
 - 💻 Currently mastering **DSA with C++**
 - ⚛️ Building projects with **Next.js, React & TypeScript**
 - 🛢️ Exploring **MongoDB & Backend Development**
